@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# proj-menucard
+=======
+>>>>>>> 56b6a2f (resolved merge conflicts)
 # Restaurant Menu Management API
 
 ## 📌 Overview
@@ -146,3 +152,7 @@ http://127.0.0.1:8000/docs
 ### Authentication
 Authentication is handled using JWT tokens. Ensure to include an Authorization: Bearer <token> header for protected routes
 
+<<<<<<< HEAD
+=======
+>>>>>>> cd3cb8c (initial commit. Added app base structure)
+>>>>>>> 56b6a2f (resolved merge conflicts)
